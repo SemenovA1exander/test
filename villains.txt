@@ -1,2 +1,3 @@
-thanos, joker
-venom
+Thanos, Joker
+Venom, Magneto
+Deathstroke, Lex Luthor
